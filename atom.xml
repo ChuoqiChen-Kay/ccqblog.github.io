@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>felicitychuoqichen@gmail.com</id>
+    <title>Chuoqi's Blog</title>
+    <updated>2022-03-06T01:53:05.140Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="felicitychuoqichen@gmail.com"/>
+    <link rel="self" href="felicitychuoqichen@gmail.com/atom.xml"/>
+    <logo>https://static.gridea.dev/324130945667957332/eRFL93Frp.JPG</logo>
+    <icon>https://static.gridea.dev/324130945667957332/eRFL93Frp.JPG</icon>
+    <rights>All rights reserved 2022, Chuoqi's Blog</rights>
+    <entry>
+        <title type="html"><![CDATA[This is a Test]]></title>
+        <id>https://felicitychuoqichen@gmail.com/this-is-a-test</id>
+        <link href="https://felicitychuoqichen@gmail.com/this-is-a-test"/>
+        <updated>2022-02-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is just a test
+]]></summary>
+        <content type="html"><![CDATA[<p>This is just a test</p>
+]]></content>
+    </entry>
+</feed>
